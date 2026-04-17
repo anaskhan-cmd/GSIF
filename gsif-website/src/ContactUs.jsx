@@ -4,11 +4,11 @@ const ContactUs = () => {
   return (
     <>
 
- TopNavBar
 
- Hero Section
 
- Main Contact Section
+
+
+
 <main className="max-w-7xl mx-auto px-8 py-24 grid grid-cols-1 lg:grid-cols-2 gap-20">
 
 <section className="space-y-16">
